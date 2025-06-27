@@ -1,0 +1,19 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title:  A definir...
+authors:
+  - family-names: Carvalho
+    given-names: Felipe Gabriel
+  - family-names: 
+    given-names: 
+  - family-names:
+    given-names: 
+keywords:
+  - Palavra chave 1
+  - Palavra chave 2
+  - Palavra chave 3
+  - Palavra chave 4
+repository-code: https://github.com/FelipeCarva2/Projeto-Ferias.git
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2025-27-07
