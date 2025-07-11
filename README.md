@@ -17,4 +17,4 @@
 
 - IDE:
     - Eclipse
-    -Visual Studio Code
+    - Visual Studio Code
