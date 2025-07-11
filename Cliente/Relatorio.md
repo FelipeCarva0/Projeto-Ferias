@@ -5,4 +5,4 @@ Toda alteração no código deve ser documentada, seguindo este padrão: Nome [D
 
 ## Begin
 
-- Felipe Gabriel [27/06/] -> Preparei o projeto para ser trabalhado.
+- Felipe Gabriel [27/06/2025] -> Preparei o projeto para ser trabalhado.
