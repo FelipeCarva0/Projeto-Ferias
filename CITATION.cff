@@ -1,6 +1,6 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title:  A definir...
+title:  Ferias
 authors:
   - family-names: Carvalho
     given-names: Felipe Gabriel
@@ -9,10 +9,10 @@ authors:
   - family-names:
     given-names: 
 keywords:
-  - Palavra chave 1
-  - Palavra chave 2
-  - Palavra chave 3
-  - Palavra chave 4
+  - Investimento
+  - Finanças
+  - Economia
+  - Análise de Dados
 repository-code: https://github.com/FelipeCarva0/Projeto-Ferias
 license: CC-BY-4.0
 version: 1.0.0

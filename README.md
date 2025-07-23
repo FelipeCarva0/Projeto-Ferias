@@ -8,6 +8,7 @@
 
 
 - Front-End:
+    - React
 
 
 
@@ -18,3 +19,6 @@
 - IDE:
     - Eclipse
     - Visual Studio Code
+
+- Framework: 
+    - Spring Boot

@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#cabecalho{
+    background: #63b0cf;
+background: -webkit-linear-gradient(90deg, rgba(99, 176, 207, 1) 0%, rgba(87, 199, 133, 1) 79%, rgba(237, 221, 83, 1) 100%);
+background: -moz-linear-gradient(90deg, rgba(99, 176, 207, 1) 0%, rgba(87, 199, 133, 1) 79%, rgba(237, 221, 83, 1) 100%);
+background: linear-gradient(90deg, rgba(99, 176, 207, 1) 0%, rgba(87, 199, 133, 1) 79%, rgba(237, 221, 83, 1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#63B0CF", endColorstr="#EDDD53", GradientType=1);
+    
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    
+}
+
+#cabecalho img {
+    height: 80px; 
+    width: auto; 
+  }
+
+
+
+  #cabecalho > ul > li {
+    display: inline;
+     padding: 0px 30px 20px 30px;
+  
+    font-size: 40px;
+    
+}
+
+#logo{
+    margin: 5px;
+     border-radius: 4px;
+     border: 2px red solid;
+ 
+ 
+}
+
+
