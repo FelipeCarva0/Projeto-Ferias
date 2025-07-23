@@ -10,6 +10,7 @@ export default function Cabecalho(){
                 <li>Quem somos</li>
                 <li>Contato</li>
                 <li>Sobre</li>
+                <li>Meu perfil</li>
             </ul>
         </div>
     );
